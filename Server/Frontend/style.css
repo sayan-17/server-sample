@@ -1,0 +1,13 @@
+.para {
+  color: blue;
+  background-color: yellow;
+}
+
+.button {
+  background-color: red;
+}
+
+.news-article {
+  background-color: yellow;
+  text-shadow: 12px;
+}
